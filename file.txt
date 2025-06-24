@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi now conflict is created
+=======
+hi my name us ...
+this is second line
+>>>>>>> slave
